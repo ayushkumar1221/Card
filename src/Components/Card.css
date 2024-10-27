@@ -1,0 +1,31 @@
+/* .cards {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  
+}
+
+@media screen  and (max-width:769px) {
+  .cards{
+    max-width: 100%;
+  }
+  img{
+    max-width: 100%;
+    text-align: center;
+  }
+  
+}
+
+@media screen  and (max-width:426px) {
+  .cards{
+    max-width: 100%;
+    overflow: hidden;
+  }
+  img{
+    max-width: 100%;
+    text-align: center;
+  }
+  
+}
+ */
